@@ -2,9 +2,7 @@ package org.example.pojos.responsePOJO;
 
 
 
-
-
-import org.example.ex_07_Payload_management.Class.tools.requestPojos.Booking;
+import org.example.pojos.requestPOJO.Booking;
 
 import java.util.LinkedHashMap;
 import java.util.Map;
